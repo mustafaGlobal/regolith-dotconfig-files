@@ -1,0 +1,20 @@
+
+
+i3-wm.gaps.inner.size: 10
+gnome.terminal.font:	Ubuntu Mono 14
+i3-wm.binding.exit_app: q
+
+i3-wm.program.1: /opt/gloCOM/bin/glocom 
+i3-wm.program.2: /usr/share/gitkraken/gitkraken
+i3-wm.program.3: thunderbird
+i3-wm.program.4: /usr/share/code/code 
+i3-wm.program.5: /usr/bin/google-chrome-stable
+i3-wm.program.6: flatpak run com.viber.Viber 
+
+i3-wm.workspace.01.name: 1: 1:Web
+i3-wm.workspace.02.name: 2: 2:Code
+i3-wm.workspace.03.name: 3: 3:Git
+i3-wm.workspace.08.name: 8: 8:Mail
+i3-wm.workspace.09.name: 9: 9:Glocom
+i3-wm.workspace.10.name: 10: 10:Viber
+i3-wm.workspace.11.name: 11: 11:VirtualBox 
